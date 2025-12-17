@@ -1,5 +1,22 @@
 # 💫 About Me
-👨🏽‍💻 Software Developer | ACRN Health<br><br>Driven by curiosity and grounded in real engineering discipline, I build secure, reliable, and scalable digital solutions that solve real problems — not create new ones.<br><br>🎓 After earning my degree from Curtin Mauritius (2024), I sharpened my skills through freelance automation work on Fiverr, delivering high-impact Python scripting, workflow automation, and system integrations for clients worldwide.<br><br>🚀 My journey spans end-to-end web application development with Spring Boot and React, hands-on work with hardware systems and infrastructure, and building software that genuinely understands and interacts with the real world.<br><br>🏥 Today at ACRN Health, I focus on:<br><br>🔗 System integrations<br><br>🏗️ On-premise software development<br><br>🤖 Intelligent automation<br><br>I work across Django, PostgreSQL, React.js, and AI frameworks to build systems that power digital health operations and continuously evolve our technology stack.<br><br>🧠 With hands-on experience in Python, Java, C, MySQL, modern web technologies, and emerging AI tools, I bring a blend of technical depth, structured thinking, and creative problem-solving to every project.<br><br>✨ My goal: to build technology that is secure, scalable, and meaningful — systems that quietly improve lives.<br><br>🌍 Let’s build the next wave of smarter, safer digital solutions.
+## 💫 About Me
+
+👨🏽‍💻 **Software Developer | ACRN Health**
+
+I build **secure, reliable, and scalable systems** that solve real problems — not theoretical ones.
+
+🎓 A 2024 Curtin Mauritius graduate, I sharpened my engineering instincts through freelance automation work, delivering Python scripting, workflow automation, and system integrations for global clients.
+
+🏥 At **ACRN Health**, I focus on:
+- 🔗 System integrations  
+- 🏗️ On-premise software development  
+- 🤖 Intelligent automation  
+
+I work across **Django, PostgreSQL, React, and AI frameworks**, combining structured engineering discipline with practical problem-solving.
+
+🧠 With hands-on experience in Python, Java, C, databases, modern web tech, and infrastructure, I aim to build technology that is **secure, scalable, and quietly impactful**.
+
+🌍 Always building systems that improve lives — without adding unnecessary complexity.
 
 
 ## 🌐 Socials:
