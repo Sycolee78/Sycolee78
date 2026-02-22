@@ -1,5 +1,5 @@
 # 💫 About Me
-👨🏽‍💻 **Software Developer | ACRN Health**
+👨🏽‍💻 **Software Engineer**
 
 I build **secure, reliable, and scalable systems** that solve real problems — not theoretical ones.
 
