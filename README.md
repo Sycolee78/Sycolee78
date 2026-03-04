@@ -10,7 +10,7 @@ I build **secure, reliable, and scalable systems** that solve real problems — 
 - 🏗️ On-premise software development  
 - 🤖 Intelligent automation  
 
-I work across **Django, PostgreSQL, React, and AI frameworks**, combining structured engineering discipline with practical problem-solving.
+I work across **Django, Springboot, PostgreSQL, React, ReactNative, Restful API, and AI frameworks**, combining structured engineering discipline with practical problem-solving.
 
 🧠 With hands-on experience in Python, Java, C, databases, modern web tech, and infrastructure, I aim to build technology that is **secure, scalable, and quietly impactful**.
 
